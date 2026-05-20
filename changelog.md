@@ -1,5 +1,7 @@
 # PHANTOM RAMPAGE UPDATES
-
+## v4.1.5 - STABLE
+- Resolving reported issues and optimizing the software.
+  
 ## v4.1.4 - STABLE
 - Added complete multi-language support for all advanced features across 10 languages.
 - Added visual warnings in Movement and Utility tabs when features are deactivated.
