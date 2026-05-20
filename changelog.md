@@ -1,4 +1,4 @@
-# PHANTOM RAMPAGE UPDATES
+## PHANTOM RAMPAGE UPDATES
 ## v4.1.5 - STABLE
 - Resolving reported issues and optimizing the software.
   
