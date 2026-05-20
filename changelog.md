@@ -1,6 +1,6 @@
-## PHANTOM RAMPAGE UPDATES
 ## v4.1.5 - STABLE
-- Resolving reported issues and optimizing the software.
+- Fixed reported issues.
+- Internal software improvements.
   
 ## v4.1.4 - STABLE
 - Added complete multi-language support for all advanced features across 10 languages.
